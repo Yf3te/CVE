@@ -1,4 +1,4 @@
-# CVE
+# CVE-2025-46154
  [Suggested description]
  Foxcms <= 1.25 has a SQL time injection in the $_POST['dbname']
  parameter of installdb.php.
